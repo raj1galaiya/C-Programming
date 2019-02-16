@@ -1,0 +1,5 @@
+﻿  exercise1.c
+c:\users\rajeev\source\repos\lab01\exercise01\exercise1.c(25): warning C4047: ':': 'int' differs in levels of indirection from 'char [1]'
+c:\users\rajeev\source\repos\lab01\exercise01\exercise1.c(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\rajeev\source\repos\lab01\exercise01\exercise1.c(28): warning C4018: '>': signed/unsigned mismatch
+  Exercise01.vcxproj -> C:\Users\Rajeev\source\repos\Lab01\Debug\Exercise01.exe
